@@ -1,10 +1,17 @@
-@import "agency.css";
-@import "coming.css";
-@import "mobile.css";
-@import "porfolio.css";
-@import "product.css";
-@import "web.css";
-@import "youtube.css";
+
+
+@import url("agency.css");
+@import url("coming.css");
+@import url("mobile.css");
+@import url("porfolio.css");
+@import url("product.css");
+@import url("web.css");
+@import url("youtube.css");
+
+
+
+
+
 
 @import './cairo-font.css';
 
